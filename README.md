@@ -8,5 +8,7 @@ Here are some ideas to get you started:
 - Terei diversas dúvidas e conto com você para aprender mais
 - Converse comigo sobre html, css, basquete, Karate ou sobre algo que tenha interesse
 - Mande-me mensagem e entraremos em contato
+
+
   
   
