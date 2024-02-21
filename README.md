@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**RodrigoHEstrela/RodrigoHEstrela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - Atualmente estou cursando o 3° E.M.
