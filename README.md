@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Olá, me chamo Rodrigo, tenho 17 anos e sou um desenvolvedor front-end jr.
 
-- Atualmente estou cursando o 3° E.M.
-- Tenho formação profissional em desenvolvimento Front End pelo Senai SP e inglês nivel básico pelo Instituto Eurofarma
-- Busco ampliar minhas habilidades no desenvolvimento Front-end
-- Terei diversas dúvidas e conto com você para aprender mais
-- Converse comigo sobre html, css, basquete, Karate ou sobre algo que desejar
-- Mande-me mensagem e entraremos em contato
+Estou no 3EM, tenho interesse na faculdade de engenheiro de software.
+
+Me profissionalizei em front-end através do Senai SP e pretendo crescer muito dentro da área.
 
 
 <div align="center">
