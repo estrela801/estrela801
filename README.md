@@ -7,6 +7,9 @@ Estou no 3EM, tenho interesse na faculdade de engenheiro de software.
 Me profissionalizei em front-end através do Senai SP e pretendo crescer muito dentro da área.
 
 
+Portifolio ->  <https://portifolio-kappa-bay.vercel.app/>
+
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/estrela801/estrela801/output/github-contribution-grid-snake-dark.svg">
