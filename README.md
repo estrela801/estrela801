@@ -2,7 +2,7 @@
 
 Olá, me chamo Rodrigo, tenho 17 anos e sou um desenvolvedor front-end jr.
 
-Estou no 3EM, tenho interesse na faculdade de engenheiro de software.
+Estou no 3EM, tenho interesse na faculdade de engenharia de software.
 
 Me profissionalizei em front-end através do Senai SP e pretendo crescer muito dentro da área.
 
