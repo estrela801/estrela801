@@ -1,8 +1,8 @@
-### Eae
+### Olá!
 
-Olá, me chamo Rodrigo, tenho 17 anos e sou um desenvolvedor front-end jr.
+Olá, me chamo Rodrigo, tenho 17 anos e sou um desenvolvedor front-end jr se tornando full stack.
 
-Estou no 3EM, tenho interesse na faculdade de engenharia de software.
+Estou no 3EM e tenho interesse na faculdade de engenharia de software.
 
 Me profissionalizei em front-end através do Senai SP e pretendo crescer muito dentro da área.
 
@@ -28,6 +28,7 @@ Tecnologias que uso
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" title="Node.js" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="50" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScrip" width="50" height="50">
 </div>
 
 
